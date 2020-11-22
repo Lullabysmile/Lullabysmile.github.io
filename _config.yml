@@ -1,11 +1,11 @@
 # Site settings
-title: yyttmonster
-SEOTitle: yyttmonster | Blog
+title: Lullabysmile
+SEOTitle: Lullabysmile | Blog
 header-img: img/home-bg.jpg
-email: yyttmonster@outloook.com
+email: 1452443595@qq.com
 description: ""
 keyword: ""
-url: "http://yyttmonster.cn"              # your host, for absolute URL
+url: "https://lullabysmile.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
